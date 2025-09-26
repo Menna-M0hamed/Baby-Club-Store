@@ -1,0 +1,113 @@
+*{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  color: #003B5D;
+}
+
+#root {
+  text-align: center;
+  width: 100%;
+}
+
+h1{
+  font-family: "Bungee", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.gutter{
+  --bs-gutter-x: 0
+}
+
+.nav{
+  background-color: #FBFBFB;
+  box-shadow: 0px 8px 11px gray;
+  font-weight: bold;
+}
+
+
+.logo {
+  height: 2em;
+  padding-left: 30px;
+  will-change: filter;
+  transition: filter 300ms;
+}
+.logo:hover {
+  filter: drop-shadow(0 0 2em #646cffaa);
+}
+.logo.react:hover {
+  filter: drop-shadow(0 0 2em #61dafbaa);
+}
+
+@keyframes logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  a:nth-of-type(2) .logo {
+    animation: logo-spin infinite 20s linear;
+  }
+}
+
+.banner-img{
+  max-width: 100%;
+  margin-top: 70px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  /* background: url(banner); */
+}
+
+.btn-container button{
+  border-radius: 20px;
+  background-color: #B5D8EC;
+  color: #003B5D;
+  box-shadow: 3px 5px 10px gray;
+}
+
+
+.card {
+  padding: 2em;
+  box-shadow: 0px 8px 5px gray;
+}
+
+.card-img{
+  height: 250px;
+}
+
+.card .btn{
+  box-shadow: 3px 5px 10px gray;
+  color: white;
+  background-color: #003B5D;
+  font-weight: bold;
+  border-radius: 20px;
+  padding: 10px 13px;
+}
+
+
+.read-the-docs {
+  color: #888;
+}
+
+
+.footer{
+  overflow: hidden;
+  background-color: #FBFBFB;
+  box-shadow: 0px 0px 15px gray;
+}
+
+.footer i{
+  margin: 0px 7px;
+  font-size: 25px;
+  cursor: pointer;
+}
+
+.between{
+  justify-content: space-between;
+}
