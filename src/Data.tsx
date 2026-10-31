@@ -2,16 +2,16 @@ import dress from "./assets/dress1.jpeg"
 import dress2 from "./assets/dress2.jpeg"
 import pants from "./assets/pants.jpg"
 import sweater from "./assets/sweater.jpg"
-import r1 from "./assets/r1.png"
-import r2 from "./assets/r2.png"
+import r1 from "./assets/r1.jpeg"
+import r2 from "./assets/r2.jpeg"
 import r3 from "./assets/r3.png"
 import r4 from "./assets/r4.png"
-import r5 from "./assets/r5.png"
-import r6 from "./assets/r6.jpg"
-import r7 from "./assets/r7.jpg"
+import r5 from "./assets/r5.jpeg"
+import r6 from "./assets/r6.jpeg"
+import r7 from "./assets/r7.jpeg"
 import o1 from "./assets/o1.png"
 import o2 from "./assets/o2.png"
-import o3 from "./assets/o3.png"
+import o3 from "./assets/o3.jpeg"
 import o4 from "./assets/o4.png"
 import o5 from "./assets/o5.png"
 
@@ -64,9 +64,9 @@ const Products = [
     description: 'des is here', 
     colors: 'red',
     sex: 'girl',
-    age: '0 : 9 Months',
+    age: 'N.B - 12m',
     category: 'Romper',
-    price: 299, 
+    price: 410, 
     img: r1 },
 
     { id: 5,
@@ -77,9 +77,9 @@ const Products = [
     description: 'des is here', 
     colors: 'red',
     sex: 'girl',
-    age: '0 : 12 Months',
+    age: 'N.B - 12m',
     category: 'Romper',
-    price: 500, 
+    price: 350, 
     img: r2 },
 
     { id: 6,
@@ -116,9 +116,9 @@ const Products = [
     description: 'des is here', 
     colors: 'red',
     sex: 'girl',
-    age: 'Newborn',
+    age: '0:12 m',
     category: 'Romper',
-    price: 399, 
+    price: 470, 
     img: r5 },
 
     { id: 9,
@@ -129,9 +129,9 @@ const Products = [
     description: 'des is here', 
     colors: 'red',
     sex: 'girl',
-    age: '0 : 12 Months',
+    age: 'N.B',
     category: 'Romper',
-    price: 500, 
+    price: 165, 
     img: r6 },
 
     { id: 10,
@@ -142,9 +142,9 @@ const Products = [
     description: 'des is here', 
     colors: 'red',
     sex: 'girl',
-    age: '0 : 12 Months',
+    age: 'N.B - 12m',
     category: 'Romper',
-    price: 500, 
+    price: 225, 
     img: r7 },
 
     { id: 11,
@@ -181,9 +181,9 @@ const Products = [
     description: 'des is here', 
     colors: 'red',
     sex: 'girl',
-    age: '1 : 10 Years',
+    age: '1 : 3 Years',
     category: 'Outfit',
-    price: 1200, 
+    price: 525, 
     img: o3 },
 
     { id: 14,
