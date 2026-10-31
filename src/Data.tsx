@@ -92,7 +92,7 @@ const Products = [
     sex: 'girl',
     age: '0 : 12 Months',
     category: 'Romper',
-    price: 599, 
+    price: 350, 
     img: r3 },
 
     { id: 7,
@@ -105,7 +105,7 @@ const Products = [
     sex: 'girl',
     age: '0 : 12 Months',
     category: 'Romper',
-    price: 599, 
+    price: 450, 
     img: r4 },
 
     { id: 8,
@@ -157,7 +157,7 @@ const Products = [
     sex: 'girl',
     age: '0 : 12 Months',
     category: 'Outfit',
-    price: 650, 
+    price: 375, 
     img: o1 },
 
     { id: 12,
@@ -170,7 +170,7 @@ const Products = [
     sex: 'girl',
     age: '0 : 12 Months',
     category: 'Outfit',
-    price: 550, 
+    price: 350, 
     img: o2 },
 
     { id: 13,
@@ -196,7 +196,7 @@ const Products = [
     sex: 'girl',
     age: '0 : 12 Months',
     category: 'Outfit',
-    price: 699, 
+    price: 390, 
     img: o4 },
 
     { id: 15,
@@ -209,7 +209,7 @@ const Products = [
     sex: 'girl',
     age: '0 : 12 Months',
     category: 'Outfit',
-    price: 699, 
+    price: 390, 
     img: o5 },
 
   { id: 16,
