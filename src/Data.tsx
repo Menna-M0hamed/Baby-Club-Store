@@ -1,4 +1,4 @@
-import dress from "./assets/dress.png"
+// import dress from "./assets/dress.png"
 import pants from "./assets/pants.jpg"
 import sweater from "./assets/sweater.jpg"
 import r1 from "./assets/r1.png"
