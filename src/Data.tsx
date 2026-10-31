@@ -22,7 +22,7 @@ const Products = [
     code: 'w5/44/001', 
     season: 'summer', 
     bestSeller: 'N',
-    name: 'Dress', 
+    name: 'Drettss', 
     description: 'des is here', 
     colors: 'red',
     sex: 'girl',
