@@ -1,4 +1,4 @@
-// import dress from "./assets/dress.png"
+import dress from "./assets/dress1.jpeg"
 import pants from "./assets/pants.jpg"
 import sweater from "./assets/sweater.jpg"
 import r1 from "./assets/r1.png"
@@ -27,7 +27,7 @@ const Products = [
     age: '1 : 4 Years',
     category: 'Dress',
     price: 4500, 
-    img: 'https://ibb.co/VcXGz8fg' },
+    img: dress },
   
 { id: 2,
     code: 'w5/44/001', 
