@@ -1,6 +1,10 @@
 import dress from "./assets/dress1.jpeg"
 import dress2 from "./assets/dress2.jpeg"
-import pants from "./assets/pants.jpg"
+import p1 from "./assets/p1.jpeg"
+import p2 from "./assets/p2.jpeg"
+import p3 from "./assets/p3.jpeg"
+import p4 from "./assets/p4.jpeg"
+import p5 from "./assets/p5.jpeg"
 import sweater from "./assets/sweater.jpg"
 import r1 from "./assets/r1.jpeg"
 import r2 from "./assets/r2.jpeg"
@@ -29,19 +33,20 @@ const Products = [
     category: 'Dress',
     price: 500, 
     img: dress },
-  
-{ id: 2,
-    code: 'w5/44/001', 
+
+ { id: 2,
+    code: 'w6/146/007', 
     season: 'summer', 
     bestSeller: 'N',
-    name: 'Pants', 
+    name: 'Dress', 
     description: 'des is here', 
     colors: 'red',
-    sex: 'Unisex',
-    age: '1 : 10 Years',
-    category: 'Pants',
-    price: 600, 
-    img: pants },
+    sex: 'girl',
+    age: '4 : 10 Years',
+    category: 'Dress',
+    price: 500, 
+    img: dress2 },
+  
     
 { id: 3,
     code: 'w5/44/001', 
@@ -212,18 +217,70 @@ const Products = [
     price: 390, 
     img: o5 },
 
-  { id: 16,
-    code: 'w6/146/007', 
+ { id: 16,
+    code: 'w5/44/001', 
     season: 'summer', 
     bestSeller: 'N',
-    name: 'Dress', 
+    name: 'Pants', 
     description: 'des is here', 
     colors: 'red',
-    sex: 'girl',
+    sex: 'Unisex',
+    age: '6 : 10 Years',
+    category: 'Pants',
+    price: 335, 
+    img: p1 },
+
+   { id: 17,
+    code: 'w5/44/001', 
+    season: 'summer', 
+    bestSeller: 'N',
+    name: 'Pants', 
+    description: 'des is here', 
+    colors: 'red',
+    sex: 'Unisex',
     age: '4 : 10 Years',
-    category: 'Dress',
-    price: 500, 
-    img: dress2 },
+    category: 'Pants',
+    price: 285, 
+    img: p2 },
+
+   { id: 18,
+    code: 'w5/44/001', 
+    season: 'summer', 
+    bestSeller: 'N',
+    name: 'Pants', 
+    description: 'des is here', 
+    colors: 'red',
+    sex: 'Unisex',
+    age: '6 : 10 Years',
+    category: 'Pants',
+    price: 335, 
+    img: p3 },
+
+  { id: 19,
+    code: 'w5/44/001', 
+    season: 'summer', 
+    bestSeller: 'N',
+    name: 'Pants', 
+    description: 'des is here', 
+    colors: 'red',
+    sex: 'Unisex',
+    age: '1 : 4 Years',
+    category: 'Pants',
+    price: 250, 
+    img: p4 },
+
+  { id: 20,
+    code: 'w5/44/001', 
+    season: 'summer', 
+    bestSeller: 'N',
+    name: 'Pants', 
+    description: 'des is here', 
+    colors: 'red',
+    sex: 'Unisex',
+    age: '1 : 4 Years',
+    category: 'Pants',
+    price: 250, 
+    img: p5 },
 
     // { id: 16,
     // code: 'w5/44/001', 
