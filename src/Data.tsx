@@ -1,4 +1,5 @@
 import dress from "./assets/dress1.jpeg"
+import dress2 from "./assets/dress2.jpeg"
 import pants from "./assets/pants.jpg"
 import sweater from "./assets/sweater.jpg"
 import r1 from "./assets/r1.png"
@@ -17,16 +18,16 @@ import o5 from "./assets/o5.png"
 
 const Products = [
   { id: 1,
-    code: 'w5/44/001', 
+    code: 'w6/146/007', 
     season: 'summer', 
     bestSeller: 'N',
-    name: 'Drettss', 
+    name: 'Dress', 
     description: 'des is here', 
     colors: 'red',
     sex: 'girl',
-    age: '1 : 4 Years',
+    age: '4 : 10 Years',
     category: 'Dress',
-    price: 4500, 
+    price: 500, 
     img: dress },
   
 { id: 2,
@@ -210,6 +211,19 @@ const Products = [
     category: 'Outfit',
     price: 699, 
     img: o5 },
+
+  { id: 16,
+    code: 'w6/146/007', 
+    season: 'summer', 
+    bestSeller: 'N',
+    name: 'Dress', 
+    description: 'des is here', 
+    colors: 'red',
+    sex: 'girl',
+    age: '4 : 10 Years',
+    category: 'Dress',
+    price: 500, 
+    img: dress2 },
 
     // { id: 16,
     // code: 'w5/44/001', 
