@@ -28,7 +28,7 @@ const Products = [
     sex: 'girl',
     age: '1 : 4 Years',
     category: 'Dress',
-    price: 450, 
+    price: 4500, 
     img: dres },
   
 { id: 2,
