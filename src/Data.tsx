@@ -29,7 +29,7 @@ const Products = [
     age: '1 : 4 Years',
     category: 'Dress',
     price: 450, 
-    img: dress },
+    img: dres },
   
 { id: 2,
     code: 'w5/44/001', 
