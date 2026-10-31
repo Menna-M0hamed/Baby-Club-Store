@@ -1,4 +1,3 @@
-import logo from "./assets/Asset 1.png"
 import dress from "./assets/dress.png"
 import pants from "./assets/pants.jpg"
 import sweater from "./assets/sweater.jpg"
@@ -14,7 +13,6 @@ import o2 from "./assets/o2.png"
 import o3 from "./assets/o3.png"
 import o4 from "./assets/o4.png"
 import o5 from "./assets/o5.png"
-import o6 from "./assets/o6.jpg"
 
 
 const Products = [
