@@ -64,9 +64,9 @@ const Products = [
     description: 'des is here', 
     colors: 'red',
     sex: 'girl',
-    age: 'N.B - 12m',
+    age: '0 : 12m',
     category: 'Romper',
-    price: 410, 
+    price: 225, 
     img: r1 },
 
     { id: 5,
