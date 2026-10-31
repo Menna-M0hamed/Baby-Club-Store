@@ -5,7 +5,9 @@ import p2 from "./assets/p2.jpeg"
 import p3 from "./assets/p3.jpeg"
 import p4 from "./assets/p4.jpeg"
 import p5 from "./assets/p5.jpeg"
-import sweater from "./assets/sweater.jpg"
+import s1 from "./assets/s1.jpeg"
+import s2 from "./assets/s2.jpeg"
+import s3 from "./assets/s3.jpeg"
 import r1 from "./assets/r1.jpeg"
 import r2 from "./assets/r2.jpeg"
 import r3 from "./assets/r3.png"
@@ -46,21 +48,8 @@ const Products = [
     category: 'Dress',
     price: 500, 
     img: dress2 },
-  
-    
-{ id: 3,
-    code: 'w5/44/001', 
-    season: 'summer', 
-    bestSeller: 'N',
-    name: 'Sweater', 
-    description: 'des is here', 
-    colors: 'red',
-    sex: 'girl',
-    age: '1 : 4 Years',
-    category: 'Sweater',
-    price: 475, 
-    img: sweater },
 
+  
     { id: 4,
     code: 'w5/44/001', 
     season: 'summer', 
@@ -281,6 +270,46 @@ const Products = [
     category: 'Pants',
     price: 250, 
     img: p5 },
+
+  { id: 21,
+    code: 'w5/44/001', 
+    season: 'summer', 
+    bestSeller: 'N',
+    name: 'Sweater', 
+    description: 'des is here', 
+    colors: 'red',
+    sex: 'girl',
+    age: '1 : 4 Years',
+    category: 'Sweater',
+    price: 215, 
+    img: s1 },
+
+   { id: 22,
+    code: 'w5/44/001', 
+    season: 'summer', 
+    bestSeller: 'N',
+    name: 'Sweater', 
+    description: 'des is here', 
+    colors: 'red',
+    sex: 'girl',
+    age: '6 : 10 Years',
+    category: 'Sweater',
+    price: 230, 
+    img: s2 },
+
+   { id: 23,
+    code: 'w5/44/001', 
+    season: 'summer', 
+    bestSeller: 'N',
+    name: 'Sweater', 
+    description: 'des is here', 
+    colors: 'red',
+    sex: 'girl',
+    age: '6 : 10 Years',
+    category: 'Sweater',
+    price: 230, 
+    img: s3 },
+
 
     // { id: 16,
     // code: 'w5/44/001', 
