@@ -27,7 +27,7 @@ const Products = [
     age: '1 : 4 Years',
     category: 'Dress',
     price: 4500, 
-    img: https://ibb.co/VcXGz8fg },
+    img: 'https://ibb.co/VcXGz8fg' },
   
 { id: 2,
     code: 'w5/44/001', 
